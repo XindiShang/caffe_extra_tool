@@ -1,4 +1,4 @@
-# caffe_extra_tool
+# Caffe Utils
 Useful tools for using Caffe:
 
 1.Visualizing data and parameters in grid of images
